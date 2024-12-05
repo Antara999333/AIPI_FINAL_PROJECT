@@ -15,6 +15,13 @@ This project explores the use of LIME (Local Interpretable Model-agnostic Explan
 
 The goal of this project is to apply LIME to a sentiment analysis task, where a model trained on a movie review dataset is tested on a different domain — COVID-19-related tweets. By doing so, it investigates how well transfer learning applies across domains and why the model might succeed or fail.
 
+# EXAMPLES OF INTERESTING FINDINGS
+![image](https://github.com/user-attachments/assets/06e6ac93-e536-4070-a134-965e0d20bc6f)
+
+![image](https://github.com/user-attachments/assets/0d897d59-d6f6-4daa-8069-d6b2ce4eb66a)
+
+![image](https://github.com/user-attachments/assets/b9ec6032-d4fe-40f3-aa10-03ca43b09ffd)
+
 
 # Credits 
 I used the help of Gen AI to train the model and also to help with applying LIME
