@@ -20,7 +20,7 @@ The goal of this project is to apply LIME to a sentiment analysis task, where a 
 
 ![image](https://github.com/user-attachments/assets/0d897d59-d6f6-4daa-8069-d6b2ce4eb66a)
 
-![image](https://github.com/user-attachments/assets/2fcc42e7-fc53-441d-9085-dcbf3561d023)
+![image](https://github.com/user-attachments/assets/6090ce68-5e1b-4366-8713-cd34c9b35ccd)
 
 
 
