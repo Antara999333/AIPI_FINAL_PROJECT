@@ -14,3 +14,7 @@ This project explores the use of LIME (Local Interpretable Model-agnostic Explan
 "How does LIME facilitate the evaluation of a BERT model's transfer learning performance?"
 
 The goal of this project is to apply LIME to a sentiment analysis task, where a model trained on a movie review dataset is tested on a different domain — COVID-19-related tweets. By doing so, it investigates how well transfer learning applies across domains and why the model might succeed or fail.
+
+
+# Credits 
+I used the help of Gen AI to train the model and also to help with applying LIME
