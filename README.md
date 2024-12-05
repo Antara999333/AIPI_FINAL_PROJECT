@@ -1,4 +1,4 @@
-# AIPI_FINAL_PROJECT
+# XAI_FINAL_PROJECT
 
 <img src="https://github.com/user-attachments/assets/f6aec4bd-bea7-40b5-b9ee-b3ba56e24b7c" width="200"/> 
 <img src="https://github.com/user-attachments/assets/66a84e10-bffe-418e-9396-763fbc5dab87" width="200"/> 
