@@ -14,7 +14,15 @@ This project explores the use of LIME (Local Interpretable Model-agnostic Explan
 "How does LIME facilitate the evaluation of a BERT model's transfer learning performance?"
 
 The goal of this project is to apply LIME to a sentiment analysis task, where a model trained on a movie review dataset is tested on a different domain — COVID-19-related tweets. By doing so, it investigates how well transfer learning applies across domains and why the model might succeed or fail.
+# What I LEARNED :
 
+1. Cross domain transfer learning sounds exciting. But its very important to make sure we know the credibility and source of the dataset- especially if its sentiment analysis. A biased dataset labeller may associate some neutral langugae with positivity or negativity and this is something the model ends up learning.
+   
+2. During cross domain experiments, its quite easy to overlook that fact that the results from one domain may not be helpful in another domain. Movie reviews are often written emotionally, casually and creatively. People can constuct strongly negative or positive comments with seemingly neutral words, for example, by using sarcasm. A sarcastic movie comment might be labelled negative because it is actually negative, but it uses relatively neutral or positive words. This data , when used for training can cause a model to learn an incorrect relationship between words and their associated sentiment. And then, if this model is applied to a more serious domain, such as online discourse around Covid, it can cause information to be misrepresented.
+
+3. LIME is an excellent way to know whether a model is associated neutral words with positivity or negativity and this can give us a sense of the nuances of the  domain and the quality of the training dataset 
+
+ 
 # EXAMPLES OF INTERESTING FINDINGS
 ![image](https://github.com/user-attachments/assets/06e6ac93-e536-4070-a134-965e0d20bc6f)
 
